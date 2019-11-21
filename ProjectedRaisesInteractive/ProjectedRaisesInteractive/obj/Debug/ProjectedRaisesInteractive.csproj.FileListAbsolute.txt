@@ -1,0 +1,7 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\ProjectedRaisesInteractive.exe.config
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\ProjectedRaisesInteractive.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\ProjectedRaisesInteractive.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\ProjectedRaisesInteractive.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\ProjectedRaisesInteractive.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\ProjectedRaisesInteractive.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\ProjectedRaisesInteractive.pdb

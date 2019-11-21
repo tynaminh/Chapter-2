@@ -1,0 +1,6 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\Eggs\Eggs\obj\Debug\Eggs.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\Eggs\Eggs\bin\Debug\Eggs.exe.config
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\Eggs\Eggs\bin\Debug\Eggs.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\Eggs\Eggs\bin\Debug\Eggs.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\Eggs\Eggs\obj\Debug\Eggs.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 2\Eggs\Eggs\obj\Debug\Eggs.pdb
